@@ -51,7 +51,7 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   challenges**.
 - 🤔 I’m looking for help with **improving my programming skills**.
 - 📫 How to reach me: **cherydens@ukr.net**.
-- 📜 My resume: **[ View resume (https://drive.google.com/file/d/16Ti266sNQ3WBnFhHc0bZdkA1cTHDb-ar/view?usp=sharing) ]**
+- 📜 My resume: **[ [View resume](https://drive.google.com/file/d/16Ti266sNQ3WBnFhHc0bZdkA1cTHDb-ar/view?usp=sharing) ]**
 
 ### My stack and tools :
 
