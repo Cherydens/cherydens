@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header"">
+<div id="header">
     <picture>
     <source srcset="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" media="(prefers-color-scheme: dark)" />
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
@@ -33,11 +33,9 @@ Here are some ideas to get you started:
     </h1>
     <div>
         <a href="https://www.codewars.com/users/Cherydens">
-        <img src="https://www.codewars.com/users/Cherydens/badges/small
-" />
+        <img src="https://www.codewars.com/users/Cherydens/badges/small" />
         </a>
     </div>
-
 </div>
 
 ### About Me :
